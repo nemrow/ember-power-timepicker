@@ -1,6 +1,6 @@
 {
   "name": "ember-power-timepicker",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A time-picker add-on for Ember.",
   "keywords": [
     "ember-addon",
